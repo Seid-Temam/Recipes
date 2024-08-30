@@ -2,9 +2,10 @@
 Ethiopian Recipe Website 
 
 Welcome to the Ethiopian Recipe Website!
+
 This project is dedicated to showcasing authentic recipes for delicious Ethiopian dishes, including Doro Wot, Soup, and Duba Wot. Dive into the rich flavors and vibrant spices of Ethiopian cuisine with easy-to-follow recipes.
 
-Featured Recipes
+## Featured Recipes
 
 1, Doro Wot: A spicy chicken stew, often considered the national dish of Ethiopia, featuring slow-cooked chicken, rich berbere sauce, and hard-boiled eggs.
 
@@ -14,5 +15,6 @@ Featured Recipes
 
 This project is a step-by-step instruction for each dish, including ingredient lists and preparation methods.
 
-Technologies used 
+## Technologies used 
+
 Frontend: HTML5 and CSS3
